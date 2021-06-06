@@ -1,0 +1,51 @@
+h1 {
+    color:red;
+
+    border-style: groove;
+    border: width 10px;
+    margin-right: 900px;
+    margin-left: 200;
+    border-color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    color:black;
+    text-align: left;
+}
+
+a {
+    color: green;
+    text-align: justify;
+    background-color:red;
+    padding: 10px 10px;
+}
+
+a:link {
+    color:green;
+}
+
+a:hover {
+    color:black;
+    background-color: red;
+}
+
+body {
+    color: black;
+    text-align: left;
+    background-image: url("Image/image-1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    color:black;
+    text-align: left;
+      
+}
+
+footer {
+    color:black;
+    text-align: left;
+    text-decoration-line: underline;
+}
